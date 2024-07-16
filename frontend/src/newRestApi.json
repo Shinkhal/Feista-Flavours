@@ -1,0 +1,127 @@
+{
+    "indian": {
+      "starters": [
+        { "id": 1, "title": "Vegetable Pakora", "price": "₹120" },
+        { "id": 2, "title": "Paneer Tikka", "price": "₹180" },
+        { "id": 3, "title": "Aloo Chaat", "price": "₹100" },
+        { "id": 4, "title": "Samosa Chaat", "price": "₹90" },
+        { "id": 5, "title": "Dahi Puri", "price": "₹110" },
+        { "id": 6, "title": "Hara Bhara Kebab", "price": "₹150" },
+        { "id": 7, "title": "Chicken Tikka", "price": "₹220" },
+        { "id": 8, "title": "Tandoori Prawns", "price": "₹300" },
+        { "id": 9, "title": "Fish Amritsari", "price": "₹250" },
+        { "id": 10, "title": "Veg Spring Rolls", "price": "₹140" },
+        { "id": 11, "title": "Mushroom Tikka", "price": "₹160" },
+        { "id": 12, "title": "Chili Paneer", "price": "₹180" },
+        { "id": 13, "title": "Achari Chicken Wings", "price": "₹240" },
+        { "id": 14, "title": "Mutton Seekh Kebab", "price": "₹280" },
+        { "id": 15, "title": "Stuffed Mushrooms", "price": "₹160" },
+        { "id": 16, "title": "Corn Tikki", "price": "₹120" },
+        { "id": 17, "title": "Papdi Chaat", "price": "₹100" },
+        { "id": 18, "title": "Tandoori Chicken", "price": "₹200" },
+        { "id": 19, "title": "Palak Chaat", "price": "₹110" },
+        { "id": 20, "title": "Chicken Kebabs", "price": "₹220" }
+      ],
+      "main_course": [
+        { "id": 21, "title": "Butter Chicken", "price": "₹280" },
+        { "id": 22, "title": "Paneer Butter Masala", "price": "₹220" },
+        { "id": 23, "title": "Rajma Masala", "price": "₹180" },
+        { "id": 24, "title": "Chicken Biryani", "price": "₹300" },
+        { "id": 25, "title": "Palak Paneer", "price": "₹200" },
+        { "id": 26, "title": "Kashmiri Dum Aloo", "price": "₹120" },
+        { "id": 27, "title": "Vegetable Jalfrezi", "price": "₹180" },
+        { "id": 28, "title": "Fish Curry", "price": "₹320" },
+        { "id": 29, "title": "Chana Masala", "price": "₹160" },
+        { "id": 30, "title": "Prawn Masala", "price": "₹350" },
+        { "id": 31, "title": "Dal Makhani", "price": "₹180" },
+        { "id": 32, "title": "Matar Paneer", "price": "₹200" },
+        { "id": 33, "title": "Chicken Korma", "price": "₹280" },
+        { "id": 34, "title": "Aloo Gobi", "price": "₹140" },
+        { "id": 35, "title": "Kadai Paneer", "price": "₹220" },
+        { "id": 36, "title": "Chicken Curry", "price": "₹260" },
+        { "id": 37, "title": "Malai Kofta", "price": "₹200" },
+        { "id": 38, "title": "Bhindi Masala", "price": "₹140" },
+        { "id": 39, "title": "Egg Curry", "price": "₹180" },
+        { "id": 40, "title": "Vegetable Biryani", "price": "₹220" }
+      ],
+      "desserts": [
+        { "id": 41, "title": "Gulab Jamun", "price": "₹80" },
+        { "id": 42, "title": "Rasgulla", "price": "₹60" },
+        { "id": 43, "title": "Kulfi", "price": "₹100" },
+        { "id": 44, "title": "Rasmalai", "price": "₹120" },
+        { "id": 45, "title": "Kheer", "price": "₹90" },
+        { "id": 46, "title": "Jalebi", "price": "₹70" },
+        { "id": 47, "title": "Gajar Halwa", "price": "₹110" },
+        { "id": 48, "title": "Shahi Tukda", "price": "₹150" },
+        { "id": 49, "title": "Coconut Ladoo", "price": "₹80" },
+        { "id": 50, "title": "Falooda", "price": "₹120" }
+      ]
+    },
+    "chinese": {
+      "starters": [
+        { "id": 51, "title": "Spring Rolls", "price": "₹90" },
+        { "id": 52, "title": "Dim Sum", "price": "₹120" },
+        { "id": 53, "title": "Prawn Crackers", "price": "₹80" },
+        { "id": 54, "title": "Chicken Manchurian", "price": "₹150" },
+        { "id": 55, "title": "Chili Paneer", "price": "₹140" },
+        { "id": 56, "title": "Szechuan Chicken", "price": "₹180" },
+        { "id": 57, "title": "Sweet Corn Soup", "price": "₹100" },
+        { "id": 58, "title": "Wontons", "price": "₹110" },
+        { "id": 59, "title": "Crispy Fried Noodles", "price": "₹120" },
+        { "id": 60, "title": "Peking Duck", "price": "₹300" }
+      ],
+      "main_course": [
+        { "id": 61, "title": "Kung Pao Chicken", "price": "₹200" },
+        { "id": 62, "title": "Szechuan Beef", "price": "₹240" },
+        { "id": 63, "title": "Sweet and Sour Pork", "price": "₹180" },
+        { "id": 64, "title": "Chow Mein", "price": "₹160" },
+        { "id": 65, "title": "Beef in Oyster Sauce", "price": "₹220" },
+        { "id": 66, "title": "Prawn Fried Rice", "price": "₹250" },
+        { "id": 67, "title": "Vegetable Manchurian", "price": "₹140" },
+        { "id": 68, "title": "Mapo Tofu", "price": "₹160" },
+        { "id": 69, "title": "Shrimp Lo Mein", "price": "₹260" },
+        { "id": 70, "title": "Duck with Plum Sauce", "price": "₹320" }
+      ],
+      "desserts": [
+        { "id": 71, "title": "Fried Ice Cream", "price": "₹120" },
+        { "id": 72, "title": "Fortune Cookies", "price": "₹80" },
+        { "id": 73, "title": "Sesame Balls", "price": "₹90" },
+        { "id": 74, "title": "Almond Jelly", "price": "₹100" },
+        { "id": 75, "title": "Mango Pudding", "price": "₹110" }
+      ]
+    },
+    "italian": {
+      "starters": [
+        { "id": 76, "title": "Bruschetta", "price": "₹150" },
+        { "id": 77, "title": "Caprese Salad", "price": "₹180" },
+        { "id": 78, "title": "Antipasto Platter", "price": "₹200" },
+        { "id": 79, "title": "Fried Calamari", "price": "₹220" },
+        { "id": 80, "title": "Stuffed Mushrooms", "price": "₹160" },
+        { "id": 81, "title": "Garlic Bread", "price": "₹90" },
+        { "id": 82, "title": "Arancini", "price": "₹120" },
+        { "id": 83, "title": "Carpaccio", "price": "₹210" },
+        { "id": 84, "title": "Minestrone Soup", "price": "₹100" },
+        { "id": 85, "title": "Mussels Marinara", "price": "₹220" }
+      ],
+      "main_course": [
+        { "id": 86, "title": "Spaghetti Carbonara", "price": "₹250" },
+        { "id": 87, "title": "Margherita Pizza", "price": "₹200" },
+        { "id": 88, "title": "Lasagna", "price": "₹280" },
+        { "id": 89, "title": "Ravioli", "price": "₹220" },
+        { "id": 90, "title": "Fettuccine Alfredo", "price": "₹180" },
+        { "id": 91, "title": "Chicken Marsala", "price": "₹280" },
+        { "id": 92, "title": "Veal Parmesan", "price": "₹320" },
+        { "id": 93, "title": "Tortellini", "price": "₹240" },
+        { "id": 94, "title": "Gnocchi", "price": "₹180" },
+        { "id": 95, "title": "Osso Buco", "price": "₹350" }
+      ],
+      "desserts": [
+        { "id": 96, "title": "Tiramisu", "price": "₹180" },
+        { "id": 97, "title": "Cannoli", "price": "₹160" },
+        { "id": 98, "title": "Panna Cotta", "price": "₹150" },
+        { "id": 99, "title": "Gelato", "price": "₹120" },
+        { "id": 100, "title": "Affogato", "price": "₹200" }
+      ]
+    }
+  }
+  
